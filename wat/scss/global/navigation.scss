@@ -1,0 +1,46 @@
+.Navigation{
+  height: 50px;
+
+  background-color: $color-green;
+  margin-left: auto;
+
+
+  .container{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    height: 100%;
+
+  }
+  &-item{
+    margin-left: auto;
+    font-size: $font-size-small;
+
+  }
+  .claim{
+
+    margin-left: auto;
+    display: flex;
+    margin-right: 10px;
+
+    font-size: $font-size-small;
+
+  }
+  select{
+
+    appearance: none;
+    margin-left: 23px;
+    height: 40px;
+    font-size: large;
+    border: 1px solid $color-blue;
+    border-radius: 5px;
+    background-color: $color-blue;
+    color: white;
+    padding-left: 10px;
+    padding-right: 4px;
+  }
+  .fp{
+    margin-top: 3px;
+      margin-left: 260px;
+     }
+}

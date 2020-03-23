@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc57d451-951b-48e1-a6c3-605c5f126936" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLBDB7ZXA8fXlsiMfld865qLDj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.18.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CANIM OĞLUM\Desktop\wat\scss\global" />
+      <recent name="C:\Users\CANIM OĞLUM\Desktop\wat\scss\helper" />
+      <recent name="C:\Users\CANIM OĞLUM\Desktop\wat\scss\config" />
+      <recent name="C:\Users\CANIM OĞLUM\Desktop\wat\scss" />
+      <recent name="C:\Users\CANIM OĞLUM\Desktop\wat\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc57d451-951b-48e1-a6c3-605c5f126936" name="Default Changelist" comment="" />
+      <created>1584608371231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584608371231</updated>
+      <workItem from="1584608372549" duration="9031000" />
+      <workItem from="1584623276423" duration="10438000" />
+      <workItem from="1584701876048" duration="9329000" />
+      <workItem from="1584736834592" duration="3649000" />
+      <workItem from="1584784656037" duration="4938000" />
+      <workItem from="1584793297212" duration="5702000" />
+      <workItem from="1584822243205" duration="1757000" />
+      <workItem from="1584875550198" duration="1917000" />
+      <workItem from="1584895484700" duration="2153000" />
+      <workItem from="1584952184948" duration="1888000" />
+      <workItem from="1584959226741" duration="6662000" />
+      <workItem from="1584979296473" duration="2772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="76" key="#Notifications" timestamp="1584701905604">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1584701905604" />
+    <state x="129" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584960587619">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="129" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584960587619" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1584617668551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584617668551" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1584617668551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584617668551" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1584617668551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584617668551" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1584617668551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584617668551" />
+    <state x="37" y="193" key="run.anything.popup" timestamp="1584961323477">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="37" y="193" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1584961323477" />
+  </component>
+</project>
